@@ -1,0 +1,374 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "image": "https://jasystore.com/wp-content/uploads/2021/12/apple-iphone-15-pro-1.jpg",
+      "name": "Apple iPhone 15 Pro",
+      "brand": "Apple",
+      "price": 999.99,
+      "stock": 50,
+      "category": "Gadget",
+      "ratings": 4.5
+    },
+    {
+      "id": 1,
+      "image": "https://www.resetdigitale.it/118694-thickbox_default/smartphone-apple-iphone-12-pro-256gb-silver.jpg",
+      "name": "Apple iPhone 12 Pro",
+      "brand": "Apple",
+      "price": 999.99,
+      "stock": 50,
+      "category": "Gadget",
+      "ratings": 4.5
+    },
+    {
+      "id": 2,
+      "image": "https://th.bing.com/th/id/OIP.e8J33-3BDAHT8HJ2dy60GgHaHa?rs=1&pid=ImgDetMain",
+      "name": "Apple iPad Air 4th Generation",
+      "brand": "Apple",
+      "price": 499.99,
+      "stock": 30,
+      "category": "Gadget",
+      "ratings": 4.2
+    },
+    {
+      "id": 3,
+      "image": "https://th.bing.com/th/id/OIP.1nSMUMjnkOuQ-VBles2_BAHaFc?rs=1&pid=ImgDetMain",
+      "name": "HP Envy 13",
+      "brand": "HP",
+      "price": 699.99,
+      "stock": 20,
+      "category": "Laptop",
+      "ratings": 4.1
+    },
+    {
+      "id": 4,
+      "image": "https://th.bing.com/th/id/OIP.qszpVBfIpd_C9--dfHf3kQHaEy?rs=1&pid=ImgDetMain",
+      "name": "Asus Vivobook X512FA",
+      "brand": "Asus",
+      "price": 599.99,
+      "stock": 40,
+      "category": "Laptop",
+      "ratings": 4.3
+    },
+    {
+      "id": 5,
+      "image": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/larger_wm_brb/public/field/image/2016/12/dell-xps-13-hero.jpg?itok=PcpkH19l",
+      "name": "Dell XPS 13",
+      "brand": "Dell",
+      "price": 799.99,
+      "stock": 25,
+      "category": "Laptop",
+      "ratings": 4.4
+    },
+    {
+      "id": 6,
+      "image": "https://th.bing.com/th/id/OIP.KJUwWIRNMt06rkCSK_8-xQHaHa?rs=1&pid=ImgDetMain",
+      "name": "MSI GS65 Stealth",
+      "brand": "MSI",
+      "price": 999.99,
+      "stock": 15,
+      "category": "Laptop",
+      "ratings": 4.6
+    },
+    {
+      "id": 7,
+      "image": "https://www.lifewire.com/thmb/P7XURrqWGjSfh6q8e_1cU80QEmQ=/780x780/filters:no_upscale():max_bytes(150000):strip_icc()/_hero_SQ_1LW4045927-1-625cb1ba7a894cc38db8565dd81072b3.jpg",
+      "name": "Apple iMac 21.5-inch",
+      "brand": "Apple",
+      "price": 1099.99,
+      "stock": 10,
+      "category": "PC",
+      "ratings": 4.7
+    },
+    {
+      "id": 8,
+      "image": "https://qvc.scene7.com/is/image/QVC/e/10/e353210.001",
+      "name": "HP Pavilion Gaming PC",
+      "brand": "HP",
+      "price": 799.99,
+      "stock": 20,
+      "category": "PC",
+      "ratings": 4.5
+    },
+    {
+      "id": 9,
+      "image": "https://images.idgesg.net/images/article/2020/01/asus_zephyrus_g14-white-05-100826119-orig.jpg",
+      "name": "Asus ROG Zephyrus G14",
+      "brand": "Asus",
+      "price": 999.99,
+      "stock": 15,
+      "category": "Laptop",
+      "ratings": 4.8
+    },
+    {
+      "id": 10,
+      "image": "https://th.bing.com/th/id/OIP.NY_8eUsLIsiDWGWy0aJmtQHaFI?rs=1&pid=ImgDetMain",
+      "name": "Dell G5 15 Gaming Laptop",
+      "brand": "Dell",
+      "price": 899.99,
+      "stock": 25,
+      "category": "Laptop",
+      "ratings": 4.4
+    },
+    {
+      "id": 11,
+      "image": "https://i.pcmag.com/imagery/reviews/02ZE3QlS4cQx5axvKlakY0o-22.1569476351.fit_scale.size_1028x578.jpg",
+      "name": "Apple iPad Pro 12.9-inch",
+      "brand": "Apple",
+      "price": 899.99,
+      "stock": 10,
+      "category": "Gadget",
+      "ratings": 4.9
+    },
+    {
+      "id": 12,
+      "image": "https://th.bing.com/th/id/OIP.a5NQzHSpi6bKC96j6E4LaQHaFj?rs=1&pid=ImgDetMain",
+      "name": "HP Envy 15",
+      "brand": "HP",
+      "price": 699.99,
+      "stock": 20,
+      "category": "Laptop",
+      "ratings": 4.3
+    },
+    {
+      "id": 13,
+      "image": "https://th.bing.com/th/id/OIP.8f7PC9SuOquQlS1m7YASJQHaHa?rs=1&pid=ImgDetMain",
+      "name": "Asus Vivobook X512FA",
+      "brand": "Asus",
+      "price": 599.99,
+      "stock": 40,
+      "category": "Laptop",
+      "ratings": 4.1
+    },
+    {
+      "id": 14,
+      "image": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/larger_wm_brb/public/field/image/2016/12/dell-xps-13-hero.jpg?itok=PcpkH19l",
+      "name": "Dell XPS 13",
+      "brand": "Dell",
+      "price": 799.99,
+      "stock": 25,
+      "category": "Laptop",
+      "ratings": 4.5
+    },
+    {
+      "id": 15,
+      "image": "https://th.bing.com/th/id/OIP.KJUwWIRNMt06rkCSK_8-xQHaHa?rs=1&pid=ImgDetMain",
+      "name": "MSI GS65 Stealth",
+      "brand": "MSI",
+      "price": 999.99,
+      "stock": 15,
+      "category": "Laptop",
+      "ratings": 4.7
+    },
+    {
+      "id": 16,
+      "image": "https://www.lifewire.com/thmb/P7XURrqWGjSfh6q8e_1cU80QEmQ=/780x780/filters:no_upscale():max_bytes(150000):strip_icc()/_hero_SQ_1LW4045927-1-625cb1ba7a894cc38db8565dd81072b3.jpg",
+      "name": "Apple iMac 21.5-inch",
+      "brand": "Apple",
+      "price": 1099.99,
+      "stock": 10,
+      "category": "PC",
+      "ratings": 4.8
+    },
+    {
+      "id": 17,
+      "image": "https://i5.walmartimages.com/asr/3251092a-b8b7-4aa0-9981-60b74f160e5c_2.38100c26881f0941886bf0a5b6d570ca.jpeg",
+      "name": "HP Pavilion Gaming PC",
+      "brand": "HP",
+      "price": 799.99,
+      "stock": 20,
+      "category": "PC",
+      "ratings": 4.6
+    },
+    {
+      "id": 18,
+      "image": "https://th.bing.com/th/id/OIP.Y_AGXsgIBG0ML966H5yVwAAAAA?rs=1&pid=ImgDetMain",
+      "name": "Asus ROG Zephyrus G14",
+      "brand": "Asus",
+      "price": 999.99,
+      "stock": 15,
+      "category": "Laptop",
+      "ratings": 4.9
+    },
+    {
+      "id": 19,
+      "image": "https://i.dell.com/sites/csimages/Video_Imagery/all/g5-15-product-walkthrough-black-red.jpg",
+      "name": "Dell G5 15 Gaming Laptop",
+      "brand": "Dell",
+      "price": 899.99,
+      "stock": 25,
+      "category": "Laptop",
+      "ratings": 4.7
+    },
+    {
+      "id": 20,
+      "image": "https://www.digitaltrends.com/wp-content/uploads/2021/05/apple-ipad-pro-2021-2.jpg?p=1",
+      "name": "Apple iPad Pro 12.9-inch",
+      "brand": "Apple",
+      "price": 899.99,
+      "stock": 10,
+      "category": "Gadget",
+      "ratings": 4.8
+    },
+    {
+      "id": 21,
+      "image": "https://i5.walmartimages.com/asr/4afa7cc9-babb-4539-9888-ffa7d8f15ddd.e58a9080843f395ff23797a1901845d2.jpeg",
+      "name": "HP Envy 15",
+      "brand": "HP",
+      "price": 699.99,
+      "stock": 20,
+      "category": "Laptop",
+      "ratings": 4.4
+    },
+    {
+      "id": 22,
+      "image": "https://th.bing.com/th/id/OIP.qszpVBfIpd_C9--dfHf3kQHaEy?rs=1&pid=ImgDetMain",
+      "name": "Asus Vivobook X512FA",
+      "brand": "Asus",
+      "price": 599.99,
+      "stock": 40,
+      "category": "Laptop",
+      "ratings": 4.3
+    },
+    {
+      "id": 23,
+      "image": "https://merchantfly.com/wp-content/uploads/2015/08/Dell-XPS-13_021.jpeg",
+      "name": "Dell XPS 13",
+      "brand": "Dell",
+      "price": 799.99,
+      "stock": 25,
+      "category": "Laptop",
+      "ratings": 4.5
+    },
+    {
+      "id": 24,
+      "image": "https://th.bing.com/th/id/OIP.KJUwWIRNMt06rkCSK_8-xQHaHa?rs=1&pid=ImgDetMain",
+      "name": "MSI GS65 Stealth",
+      "brand": "MSI",
+      "price": 999.99,
+      "stock": 15,
+      "category": "Laptop",
+      "ratings": 4.7
+    },
+    {
+      "id": 25,
+      "image": "https://www.lifewire.com/thmb/P7XURrqWGjSfh6q8e_1cU80QEmQ=/780x780/filters:no_upscale():max_bytes(150000):strip_icc()/_hero_SQ_1LW4045927-1-625cb1ba7a894cc38db8565dd81072b3.jpg",
+      "name": "Apple iMac 21.5-inch",
+      "brand": "Apple",
+      "price": 1099.99,
+      "stock": 10,
+      "category": "PC",
+      "ratings": 4.8
+    },
+    {
+      "id": 26,
+      "image": "https://i5.walmartimages.com/asr/3251092a-b8b7-4aa0-9981-60b74f160e5c_2.38100c26881f0941886bf0a5b6d570ca.jpeg",
+      "name": "HP Pavilion Gaming PC",
+      "brand": "HP",
+      "price": 799.99,
+      "stock": 20,
+      "category": "PC",
+      "ratings": 4.6
+    },
+    {
+      "id": 27,
+      "image": "https://th.bing.com/th/id/OIP.Y_AGXsgIBG0ML966H5yVwAAAAA?rs=1&pid=ImgDetMain",
+      "name": "Asus ROG Zephyrus G14",
+      "brand": "Asus",
+      "price": 999.99,
+      "stock": 15,
+      "category": "Laptop",
+      "ratings": 4.9
+    },
+    {
+      "id": 28,
+      "image": "https://i.dell.com/sites/csimages/Video_Imagery/all/g5-15-product-walkthrough-black-red.jpg",
+      "name": "Dell G5 15 Gaming Laptop",
+      "brand": "Dell",
+      "price": 899.99,
+      "stock": 25,
+      "category": "Laptop",
+      "ratings": 4.7
+    },
+    {
+      "id": 29,
+      "image": "https://www.digitaltrends.com/wp-content/uploads/2021/05/apple-ipad-pro-2021-2.jpg?p=1",
+      "name": "Apple iPad Pro 12.9-inch",
+      "brand": "Apple",
+      "price": 899.99,
+      "stock": 10,
+      "category": "Gadget",
+      "ratings": 4.8
+    },
+    {
+      "id": 30,
+      "image": "https://i5.walmartimages.com/asr/4afa7cc9-babb-4539-9888-ffa7d8f15ddd.e58a9080843f395ff23797a1901845d2.jpeg",
+      "name": "HP Envy 15",
+      "brand": "HP",
+      "price": 699.99,
+      "stock": 20,
+      "category": "Laptop",
+      "ratings": 4.4
+    },
+    {
+      "id": 31,
+      "image": "https://th.bing.com/th/id/OIP.qszpVBfIpd_C9--dfHf3kQHaEy?rs=1&pid=ImgDetMain",
+      "name": "Asus Vivobook X512FA",
+      "brand": "Asus",
+      "price": 599.99,
+      "stock": 40,
+      "category": "Laptop",
+      "ratings": 4.3
+    },
+    {
+      "id": 32,
+      "image": "https://merchantfly.com/wp-content/uploads/2015/08/Dell-XPS-13_021.jpeg",
+      "name": "Dell XPS 13",
+      "brand": "Dell",
+      "price": 799.99,
+      "stock": 25,
+      "category": "Laptop",
+      "ratings": 4.5
+    },
+    {
+      "id": 33,
+      "image": "https://pctechmag.com/wp-content/uploads/2019/01/MSI-GS65-Stealth.jpg",
+      "name": "MSI GS65 Stealth",
+      "brand": "MSI",
+      "price": 999.99,
+      "stock": 15,
+      "category": "Laptop",
+      "ratings": 4.7
+    },
+    {
+      "id": 34,
+      "image": "https://www.lifewire.com/thmb/P7XURrqWGjSfh6q8e_1cU80QEmQ=/780x780/filters:no_upscale():max_bytes(150000):strip_icc()/_hero_SQ_1LW4045927-1-625cb1ba7a894cc38db8565dd81072b3.jpg",
+      "name": "Apple iMac 21.5-inch",
+      "brand": "Apple",
+      "price": 1099.99,
+      "stock": 10,
+      "category": "PC",
+      "ratings": 4.8
+    },
+    {
+      "id": 35,
+      "image": "https://i5.walmartimages.com/asr/3251092a-b8b7-4aa0-9981-60b74f160e5c_2.38100c26881f0941886bf0a5b6d570ca.jpeg",
+      "name": "HP Pavilion Gaming PC",
+      "brand": "HP",
+      "price": 799.99,
+      "stock": 20,
+      "category": "PC",
+      "ratings": 4.6
+    },
+    {
+      "id": 36,
+      "image": "https://th.bing.com/th/id/OIP.Y_AGXsgIBG0ML966H5yVwAAAAA?rs=1&pid=ImgDetMain",
+      "name": "Asus ROG Zephyrus G14",
+      "brand": "Asus",
+      "price": 999.99,
+      "stock": 15,
+      "category": "Laptop",
+      "ratings": 4.9
+    }
+  ]
+}
