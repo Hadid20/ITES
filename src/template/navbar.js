@@ -7,7 +7,7 @@ function createNavbar() {
   <div class="inline-flex">
       <a class="" href="#"
           ><div class="block h-full">
-          <img src="http://127.0.0.1:5500/src/asseet/ITES.png" class="max-w-52"> 
+          <img src="https://hadid20.github.io/PILgusticode/src/asseet/ITES.png" class="max-w-52"> 
           </div>
          
       </a>
@@ -41,13 +41,13 @@ function createNavbar() {
      
     
       <div class="hidden md:flex mr-4 items-center">
-        <a class="inline-block px-3" href="http://127.0.0.1:5500/index.html">
+        <a class="inline-block px-3" href="https://hadid20.github.io/PILgusticode/index.html">
         <span id="menu1" class="py-2 px-4 hover:bg-gray-200 rounded-full">Beranda</span>
         </a>
-        <a class="inline-block px-3" href="http://127.0.0.1:5500/src/page/Chategory.html">
+        <a class="inline-block px-3" href="https://hadid20.github.io/PILgusticode/src/page/Chategory.html">
         <span id="menu2" class="py-2 px-4 hover:bg-gray-200 rounded-full">Chategory</span>
         </a>
-        <a class="inline-block px-3" href="http://127.0.0.1:5500/src/page/Blog.html">
+        <a class="inline-block px-3" href="https://hadid20.github.io/PILgusticode/src/page/Blog.html">
         <span id="menu3" class="py-2 px-4 hover:bg-gray-200 rounded-full">About</span>
         </a>
        

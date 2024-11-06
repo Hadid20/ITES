@@ -1,7 +1,7 @@
 // fecth data api
 
 function getData() {
-  fetch("http://127.0.0.1:5500/src/asseet/data.json")
+  fetch("https://hadid20.github.io/PILgusticode/src/asseet/data.json")
     .then((Response) => Response.json())
     .then((data) => {
       const dataJSON = data.products;
