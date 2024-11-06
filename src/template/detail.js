@@ -7,7 +7,7 @@ const getData = () => {
 
   // Fetch detail produk berdasarkan ID (di sini hanya contoh statis)
   const products = async () => {
-    fetch("../asseet/data.json")
+    fetch("http://127.0.0.1:5500/src/asseet/data.json")
       .then((response) => response.json()) //  Replace with your API endpoint
       .then((data) => {
         // const productsid = data.products.filter(

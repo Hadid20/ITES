@@ -1,7 +1,7 @@
 // fecth data api
 
 function getData() {
-  fetch("../asseet/data.json")
+  fetch("http://127.0.0.1:5500/src/asseet/data.json")
     .then((Response) => Response.json())
     .then((data) => {
       const dataJSON = data.products;
